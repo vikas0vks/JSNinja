@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 Clone this repository:  
 ```bash
-git clone https://github.com/<your-username>/JSNinja.git
+git clone https://github.com/vikas0vks/JSNinja.git
 cd JSNinja
 ```
 
@@ -74,10 +74,10 @@ python jsninja.py
 
 ## **Screenshots**  
 ### Tool in Action:  
-![Tool Running Screenshot](https://via.placeholder.com/800x400?text=JSNinja+-+Extracting+Data+from+JS+Files)
+![Tool Running Screenshot](https://github.com/vikas0vks/JSNinja/blob/main/assets/running%20jsninja.jpg)
 
 ### Output Files:  
-![Output Files Screenshot](https://via.placeholder.com/800x400?text=Output+-+URLs+and+Secrets)
+![Output Files Screenshot](https://github.com/vikas0vks/JSNinja/blob/main/assets/output_jsninja.jpg)
 
 ---
 
