@@ -1,7 +1,7 @@
 # **JSNinja**  
 "**Hunting Bugs in JavaScript!**"  
 
-![JSNinja Banner](https://via.placeholder.com/800x200?text=JSNinja+-+Hunt+Secrets+in+JS+Files)
+![JSNinja Banner](https://github.com/vikas0vks/JSNinja/blob/main/assets/jsninja_banner.jpg)
 
 **JSNinja** is an advanced tool designed to extract URLs and sensitive secrets from JavaScript files. It’s a must-have tool for penetration testers and bug bounty hunters to analyze JS files efficiently and identify valuable data.  
 
