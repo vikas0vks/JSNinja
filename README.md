@@ -34,7 +34,7 @@ This tool is inspired by the amazing project [JSNinja](https://github.com/iamuni
 
 ### **Requirements**  
 - Python 3.8+  
-- Required Python libraries: `requests`, `re`, `colorama`  
+- Required Python libraries: `requests`, `beautifulsoup4`, `colorama` ,`urllib3` 
 
 Install dependencies using:  
 ```bash
